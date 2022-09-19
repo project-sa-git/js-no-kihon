@@ -194,7 +194,7 @@ module.hot.accept(reloadCSS);
 
 require("./styles.css");
 
-document.getElementById("app").innerHTML = "\n<h1>Hello VanillaJS!</h1>\n<h1>Hello VanillaJS2!</h1>\n<div>\n  We use the same configuration as Parcel to bundle this sandbox, you can find more\n  info about Parcel \n  <a href=\"https://parceljs.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.\n</div>\n";
+document.getElementById("app").innerHTML = "\n<h1>Hello VanillaJS!</h1>\n<h1>Hello VanillaJS2!</h1>\n<h1>Hello VanillaJS3!</h1>\n<div>\n  We use the same configuration as Parcel to bundle this sandbox, you can find more\n  info about Parcel \n  <a href=\"https://parceljs.org\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.\n</div>\n";
 },{"./styles.css":"src/styles.css"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';

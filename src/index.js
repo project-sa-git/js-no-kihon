@@ -1,5 +1,7 @@
 import "./styles.css";
 
+console.log("かか");
+
 document.getElementById("app").innerHTML = `
 <h1>Hello VanillaJS!</h1>
 <h1>Hello VanillaJS2!</h1>
